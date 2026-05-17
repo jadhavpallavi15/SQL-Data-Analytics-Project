@@ -120,8 +120,8 @@ Two reusable SQL views consolidate all key metrics into a single output per enti
 
 4. **View final reports** — After running `12` and `13`, query the views directly:
    ```sql
-   SELECT * FROM gold.report_customers;
-   SELECT * FROM gold.report_products;
+   SELECT * FROM report_customers;
+   SELECT * FROM report_products;
    ```
 
 ---
