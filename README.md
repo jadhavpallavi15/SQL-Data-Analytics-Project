@@ -136,6 +136,4 @@ Two reusable SQL views consolidate all key metrics into a single output per enti
 
 ## About
 
-Built as part of an advanced SQL data analytics portfolio project, demonstrating skills relevant to **Data Analyst** and **Business Intelligence** roles — including data modelling, KPI design, customer segmentation, and time-series analysis.
-
-> **MSc Data Analytics & Decision Science** — Germany
+Built as part of an advanced SQL data analytics portfolio project, demonstrating skills relevant to **Data Analyst** and **Business Intelligence** roles: including data modelling, KPI design, customer segmentation, and time-series analysis.
