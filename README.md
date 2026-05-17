@@ -6,7 +6,7 @@ A structured, end-to-end data analytics project built on a retail data warehouse
 
 ## Project Overview
 
-This project analyses a retail sales data warehouse (`DataWarehouseAnalytics`) consisting of customer, product, and sales fact data. The goal is to extract actionable business insights through a series of progressively advanced SQL analyses — mimicking the workflow of a real-world data analyst.
+This project analyses a retail sales data warehouse (`DataWarehouseAnalytics`) consisting of customer, product, and sales fact data. The goal is to extract actionable business insights through a series of progressively advanced SQL analyses mimicking the workflow of a real-world data analyst.
 
 **Business Questions Answered:**
 - Which products and customers drive the most revenue?
