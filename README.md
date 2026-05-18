@@ -1,4 +1,4 @@
-# SQL E-Commerce Data Analytics Project
+# Sales Insights Warehouse SQL Data Analytics Project
 
 A structured, end-to-end data analytics project built on a retail data warehouse using **advanced SQL techniques**. The project covers everything from database setup and exploration to segmentation, performance benchmarking, and executive-level reporting views.
 
