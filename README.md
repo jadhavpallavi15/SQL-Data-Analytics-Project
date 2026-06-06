@@ -1,4 +1,4 @@
-#Sales Data Analytics Using Advanced SQL
+# Sales Data Analytics Using Advanced SQL
 
 A structured, end-to-end data analytics project built on a retail data warehouse using **advanced SQL techniques**. The project covers everything from database setup and exploration to segmentation, performance benchmarking, and executive-level reporting views.
 
