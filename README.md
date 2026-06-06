@@ -1,4 +1,4 @@
-# Sales Performance & Customer Insights Using Adavanced SQL 
+# Sales Performance & Customer Insights Using Advanced SQL 
 
 An end-to-end SQL analytics project focused on exploring sales data and uncovering meaningful business insights. The project demonstrates a range of analytical techniques, from data exploration and KPI development to customer segmentation, performance benchmarking, trend analysis, and reporting.
 
@@ -136,4 +136,4 @@ Two reusable SQL views consolidate all key metrics into a single output per enti
 
 ## About
 
-Built as part of an advanced SQL data analytics portfolio project, demonstrating skills relevant to **Data Analyst** and **Business Intelligence** roles: including data modelling, KPI design, customer segmentation, and time-series analysis.
+Built as part of an advanced SQL analytics portfolio project, this work demonstrates skills relevant to Data Analyst and Business Intelligence roles, including advanced SQL querying, KPI development, customer segmentation, performance benchmarking, and time-series analysis. This end-to-end approach showcases how analytical reporting and KPI-driven insights can help decision-makers monitor performance, identify opportunities, and support data-driven growth strategies across an organization.
