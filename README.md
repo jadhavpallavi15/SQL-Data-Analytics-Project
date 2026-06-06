@@ -109,6 +109,19 @@ Two reusable SQL views consolidate all key metrics into a single output per enti
 - Average selling price, average order revenue (AOR), average monthly revenue
 
 ---
+## Key Findings
+
+- **Bikes dominate revenue** — contributing 96.46% of total sales, 
+  with Accessories (2.39%) and Clothing (1.16%) as minor categories
+- **VIP customers are a small but critical segment** — 3,210 VIPs 
+  vs 14,830 New customers, suggesting strong acquisition but 
+  retention opportunity
+- **New customers vastly outnumber loyal ones** — conversion from 
+  New → Regular (444) is a key business gap
+
+## Output Screenshots
+![Customer Segmentation](outputs/segmentation.png)
+![Category Breakdown](outputs/part_to_whole.png)
 
 ## How to Run
 
