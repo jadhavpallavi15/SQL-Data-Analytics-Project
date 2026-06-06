@@ -21,21 +21,21 @@ SELECT
     SUM(sales_amount) AS total_sales,
     COUNT(DISTINCT customer_key) AS total_customers,
     SUM(quantity) AS total_quantity
-FROM gold.fact_sales
-WHERE order_date IS NOT NULL
+FROM fact_sales
+WHERE order_date  >= '1000-01-01'
 GROUP BY YEAR(order_date), MONTH(order_date)
 ORDER BY YEAR(order_date), MONTH(order_date);
 
--- DATETRUNC()
+-- DATE_FORMAT()
 SELECT
-    DATETRUNC(month, order_date) AS order_date,
+    DATE_FORMAT(order_date, '%Y-%m-01') AS order_date,
     SUM(sales_amount) AS total_sales,
     COUNT(DISTINCT customer_key) AS total_customers,
     SUM(quantity) AS total_quantity
-FROM gold.fact_sales
-WHERE order_date IS NOT NULL
-GROUP BY DATETRUNC(month, order_date)
-ORDER BY DATETRUNC(month, order_date);
+FROM fact_sales
+WHERE order_date >= '1000-01-01'
+GROUP BY DATE_FORMAT(order_date, '%Y-%m-01')
+ORDER BY DATE_FORMAT(order_date, '%Y-%m-01');
 
 -- FORMAT()
 SELECT
@@ -43,7 +43,7 @@ SELECT
     SUM(sales_amount) AS total_sales,
     COUNT(DISTINCT customer_key) AS total_customers,
     SUM(quantity) AS total_quantity
-FROM gold.fact_sales
-WHERE order_date IS NOT NULL
+FROM fact_sales
+WHERE order_date >= '1000-01-01'
 GROUP BY FORMAT(order_date, 'yyyy-MMM')
 ORDER BY FORMAT(order_date, 'yyyy-MMM');
