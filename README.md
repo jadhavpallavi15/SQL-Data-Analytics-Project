@@ -1,5 +1,7 @@
-# Sales Performance & Customer Insights Using Adavanced SQL
+# Sales Performance & Customer Insights Using Adavanced SQL 
+
 An end-to-end SQL analytics project focused on exploring sales data and uncovering meaningful business insights. The project demonstrates a range of analytical techniques, from data exploration and KPI development to customer segmentation, performance benchmarking, trend analysis, and reporting.
+
 ---
 
 ## Project Overview
