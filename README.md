@@ -8,7 +8,7 @@ An end-to-end SQL analytics project focused on exploring sales data and uncoveri
 
 This project analyzes sales data across customers, products, and transactions using advanced SQL. Through a series of analytical queries, it examines sales performance, customer behavior, product trends, and category contributions to support business reporting and strategic decision-making.
 
-** Business Questions Answered:**
+** Business Questions Answered: **
 - Which products and customers drive the most revenue?
 - How has sales performance changed over time?
 - Which customer segments (VIP, Regular, New) are most valuable?
