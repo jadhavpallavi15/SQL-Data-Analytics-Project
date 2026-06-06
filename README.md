@@ -1,14 +1,12 @@
-# Sales Data Analytics Using Advanced SQL
-
-A structured, end-to-end data analytics project built on a retail data warehouse using **advanced SQL techniques**. The project covers everything from database setup and exploration to segmentation, performance benchmarking, and executive-level reporting views.
-
+# Sales Performance & Customer Insights Using Adavanced SQL
+An end-to-end SQL analytics project focused on exploring sales data and uncovering meaningful business insights. The project demonstrates a range of analytical techniques, from data exploration and KPI development to customer segmentation, performance benchmarking, trend analysis, and reporting.
 ---
 
 ## Project Overview
 
-This project analyses a retail sales data warehouse (`DataWarehouseAnalytics`) consisting of customer, product, and sales fact data. The goal is to extract actionable business insights through a series of progressively advanced SQL analyses mimicking the workflow of a real-world data analyst.
+This project analyzes sales data across customers, products, and transactions using advanced SQL. Through a series of analytical queries, it examines sales performance, customer behavior, product trends, and category contributions to support business reporting and strategic decision-making.
 
-**Business Questions Answered:**
+** Business Questions Answered:**
 - Which products and customers drive the most revenue?
 - How has sales performance changed over time?
 - Which customer segments (VIP, Regular, New) are most valuable?
